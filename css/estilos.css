@@ -165,3 +165,18 @@ footer .redes-sociales .contenedor a {
     margin: 0 20px;
     border-radius: 3px ;
 }
+footer .redes-sociales .contenedor a:hover {
+    color: #ff0f22;
+}
+
+@media screen and (max-width: 800px) {
+    header .menu {
+        text-align: center;
+    }
+    .main .trabajo .contenedor-trabajo .trabajo {
+        width: 46%;
+    }
+
+
+}
+/*@media screen and (max-width: ) hacer que cambie el tamano de algo cuanodo llegue a 700*/
